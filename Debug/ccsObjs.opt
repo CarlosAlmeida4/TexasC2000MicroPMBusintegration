@@ -1,0 +1,1 @@
+"./DSP2803x_CodeStartBranch.obj" "./DSP2803x_CpuTimers.obj" "./DSP2803x_DefaultIsr.obj" "./DSP2803x_GlobalVariableDefs.obj" "./DSP2803x_I2C.obj" "./DSP2803x_PieCtrl.obj" "./DSP2803x_PieVect.obj" "./DSP2803x_SysCtrl.obj" "./DSP2803x_usDelay.obj" "./main.obj" "../DSP2803x_Headers_nonBIOS.cmd" "../F28035.cmd" -llibc.a 
